@@ -2,7 +2,7 @@
 Practicing Python from different angles. Focusing on stuff important for data science.
 ![Speak Python](python-do-you-speak-it.jpg)
 1. Algs and data structures
-  a. Data structures
+  + Data structures
     * [1-basic_data_structures-network_packet_processing](./algs_and_datastructures/datastructures/1-basic_data_structures-network_packet_processing)
     * [2-basic_data_structures-tree_height](./algs_and_datastructures/datastructures/2-basic_data_structures-tree_height)
     * [3-basic_data_structures-check_brackets](./algs_and_datastructures/datastructures/3-basic_data_structures-check_brackets)
