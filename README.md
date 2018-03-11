@@ -14,4 +14,6 @@ Practicing Python from different angles. Focusing on stuff important for data sc
     * [9-priority_queues-merging_tables](./algs_and_datastructures/datastructures/\9-priority_queues-merging_tables)
     * [10-binary_search_trees-is_bst](./algs_and_datastructures/datastructures/10-binary_search_trees-is_bst)
     * [11-binary_search_trees-tree_orders](./algs_and_datastructures/datastructures/11-binary_search_trees-tree_orders)
+    
+    
 ![Practice](practice.jpg)
