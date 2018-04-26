@@ -1,7 +1,8 @@
 # Going all in on Python
 Practicing Python (using problems kindly formulated by others).
+
 ![Practice](practice.jpg)
-### Algs and data structures
+## Algs and data structures
 ![heap](heap.jpg)
   * [1-queue-network_packet_processing](./algs_and_datastructures/1-queue-network_packet_processing)
   * [2-stack-check_brackets](./algs_and_datastructures/2-stack-check_brackets)
